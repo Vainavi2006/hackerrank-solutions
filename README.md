@@ -53,7 +53,7 @@ hackerrank-solutions/
 | Language | Problems Solved |
 |----------|----------------:|
 | Python  | 8 |
-| SQL      | 5 |
+| SQL      | 8 |
 
 > This table will be updated as I solve more problems.
 
